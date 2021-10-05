@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en" class="theme-1">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+    <title>Frontend Mentor | Calculator app</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Spartan:wght@700&display=swap" rel="stylesheet">
+    <style>
+        .attribution { font-size: 11px; text-align: center; }
+        .attribution a { color: hsl(228, 91%, 21%); }
+    </style>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <main class="main-container">
+        <div class="change__theme__area">
+            Calc    
+            <div class="checkBoxGrade">
+                Theme
+                <div class="check-cont">
+                    <input radio type="radio" name="theme" id="theme-1">
+                    <input radio type="radio" name="theme" id="theme-2">
+                    <input radio type="radio" name="theme" id="theme-3">
+                </div>
+            </div>
+        </div>
+        <div class="input__area"></div>
+        <div class="numbers__area">
+            <button data-num>7</button>
+            <button data-num>8</button>
+            <button data-num>9</button>
+            <button class="del">DEL</button>
+            <button data-num>4</button>
+            <button data-num>5</button>
+            <button data-num>6</button>
+            <button data-op>+</button>
+            <button data-num>1</button>
+            <button data-num>2</button>
+            <button data-num>3</button>
+            <button data-op>-</button>
+            <button data-dot>.</button>
+            <button data-num>0</button>
+            <button data-op>/</button>
+            <button data-op>x</button>
+            <button class="reset">RESET</button>
+            <button class="equal">=</button>
+        </div>
+    </main>
+
+    <div class="help">
+        Type H for Help
+    </div>
+    
+    <div class="attribution">
+        Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+        Coded by <a href="https://github.com/adiltonss">Adilton S</a>.
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>

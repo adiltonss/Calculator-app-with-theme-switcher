@@ -16,5 +16,7 @@ A better function to avoid to dot to be clicked more than once.
 
 ## Author
 
-- Website - [Add your name here](https://github.com/adiltonss)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/adiltonss)
+- Website - https://github.com/adiltonss  
+- Live project - https://youthful-brattain-d67611.netlify.app/  
+- Frontend Mentor - https://www.frontendmentor.io/profile/adiltonss  
+- ![image](https://user-images.githubusercontent.com/83099533/148077784-9a57715e-b677-4238-bce4-a6ab4f261c34.png)

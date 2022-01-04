@@ -19,4 +19,4 @@ A better function to avoid to dot to be clicked more than once.
 - Website - https://github.com/adiltonss  
 - Live project - https://youthful-brattain-d67611.netlify.app/  
 - Frontend Mentor - https://www.frontendmentor.io/profile/adiltonss  
-- ![image](https://user-images.githubusercontent.com/83099533/148077784-9a57715e-b677-4238-bce4-a6ab4f261c34.png)
+![Calc](https://user-images.githubusercontent.com/83099533/148077975-ff7e3cb0-b5eb-4ff2-ac7f-25a523a848ef.png)
